@@ -7,8 +7,8 @@ Welcome to my page! I'm Dhruv, a Freelance Developer with an expertise in Shopif
 - 💬 Ask me about how to setup Shopify stores
 - 📫 How to reach me: dsheth911wd@gmail.com
 
-<!-- Calendly badge widget begin -->
+<html>
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/dsheth911wd/30min?background_color=fffefe&primary_color=ff000f', text: 'Schedule time with me', color: '#ff0000', textColor: '#000000', branding: true }); }</script>
-<!-- Calendly badge widget end -->
+</html>
